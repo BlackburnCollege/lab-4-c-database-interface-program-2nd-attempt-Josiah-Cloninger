@@ -127,10 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Class.cpp" />
     <ClCompile Include="CS_220_Lab_Template.cpp" />
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="Spell.cpp" />
+    <ClCompile Include="SpellList.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Class.h" />
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="Spell.h" />
+    <ClInclude Include="SpellList.h" />
     <ClInclude Include="sqlite3.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Classes.csv" />
+    <None Include="SpellLists.csv" />
+    <None Include="Spells.csv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

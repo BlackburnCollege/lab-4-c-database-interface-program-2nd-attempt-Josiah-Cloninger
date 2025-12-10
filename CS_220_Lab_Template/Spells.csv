@@ -1,0 +1,410 @@
+Acid Splash,0,Evocation,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Blade Ward,0,Abjuration,Action,Self,1,1,0,1,1 minute,0,0,0,PHB
+Chill Touch,0,Necromancy,Action,Touch,1,1,0,0,Instantaneous,0,0,0,PHB
+Dancing Lights,0,Illusion,Action,120 feet,1,1,1,1,1 minute,0,0,0,PHB
+Druidcraft,0,Transmutation,Action,30 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Eldritch Blast,0,Evocation,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Elementalism,0,Transmutation,Action,30 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Fire Bolt,0,Evocation,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Friends,0,Enchantment,Action,10 feet,0,1,1,1,1 minute,0,0,0,PHB
+Guidance,0,Divination,Action,Touch,1,1,0,1,1 minute,0,0,0,PHB
+Light,0,Evocation,Action,Touch,1,0,1,0,1 hour,0,0,0,PHB
+Mage Hand,0,Conjuration,Action,30 feet,1,1,0,0,1 minute,0,0,0,PHB
+Mending,0,Transmutation,1 minute,Touch,1,1,1,0,Instantaneous,0,0,0,PHB
+Message,0,Transmutation,Action,120 feet,0,1,1,0,1 round,0,0,0,PHB
+Mind Sliver,0,Enchantment,Action,60 feet,1,0,0,0,1 round,0,0,0,PHB
+Minor Illusion,0,Illusion,Action,30 feet,0,1,1,0,1 minute,0,0,0,PHB
+Poison Spray,0,Necromancy,Action,30 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Prestidigitation,0,Transmutation,Action,10 feet,1,1,0,0,1 hour,0,0,0,PHB
+Produce Flame,0,Conjuration,Bonus Action,Self,1,1,0,0,10 minutes,0,0,0,PHB
+Ray of Frost,0,Evocation,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Resistance,0,Abjuration,Action,Touch,1,1,0,1,1 minute,0,0,0,PHB
+Sacred Flame,0,Evocation,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Shillelagh,0,Transmutation,Bonus Action,Self,1,1,1,0,1 minute,0,0,0,PHB
+Shocking Grasp,0,Evocation,Action,Touch,1,1,0,0,Instantaneous,0,0,0,PHB
+Sorcerous Burst,0,Evocation,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Spare the Dying,0,Necromancy,Action,15 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Starry Wisp,0,Evocation,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Thaumaturgy,0,Transmutation,Action,30 feet,1,0,0,0,1 minute,0,0,0,PHB
+Thorn Whip,0,Transmutation,Action,30 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Thunderclap,0,Evocation,Action,Self,0,1,0,0,Instantaneous,0,0,0,PHB
+Toll the Dead,0,Necromancy,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+1 Strike,0,Divination,Action,Self,0,1,1,0,Instantaneous,0,0,0,PHB
+Vicious Mockery,0,Enchantment,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Word of Radiance,0,Evocation,Action,Self,1,0,1,0,Instantaneous,0,0,0,PHB
+Alarm,1,Abjuration,1 minute ,30 feet,1,1,1,0,8 hours,0,0,1,PHB
+Animal Friendship,1,Enchantment,Action,30 feet,1,1,1,0,24 hours,0,0,0,PHB
+Armor of Agathys,1,Abjuration,Bonus Action,Self,1,1,1,0,1 hour,0,0,0,PHB
+Arms of Hadar,1,Conjuration,Action,Self,1,1,0,0,Instantaneous,0,0,0,PHB
+Bane,1,Enchantment,Action,30 feet,1,1,1,1,1 minute,0,0,0,PHB
+Bless,1,Enchantment,Action,30 feet,1,1,1,1,1 minute,1,0,0,PHB
+Burning Hands,1,Evocation,Action,Self,1,1,0,0,Instantaneous,0,0,0,PHB
+Charm Person,1,Enchantment,Action,30 feet,1,1,0,0,1 hour,0,0,0,PHB
+Chromatic Orb,1,Evocation,Action,90 feet,1,1,1,0,Instantaneous,1,0,0,PHB
+Color Spray,1,Illusion,Action,Self,1,1,1,0,Instantaneous,0,0,0,PHB
+Command,1,Enchantment,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Compelled Duel,1,Enchantment,Bonus Action,30 feet,1,0,0,1,1 minute,0,0,0,PHB
+Comprehend Languages,1,Divination,Action ,Self,1,1,1,0,1 hour,0,0,1,PHB
+Create or Destroy Water,1,Transmutation,Action,30 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Cure Wounds,1,Abjuration,Action,Touch,1,1,0,0,Instantaneous,0,0,0,PHB
+Detect Evil and Good,1,Divination,Action,Self,1,1,0,1,10 minutes,0,0,0,PHB
+Detect Magic,1,Divination,Action ,Self,1,1,0,1,10 minutes,0,0,1,PHB
+Detect Poison and Disease,1,Divination,Action ,Self,1,1,1,1,10 minutes,0,0,1,PHB
+Disguise Self,1,Illusion,Action,Self,1,1,0,0,1 hour,0,0,0,PHB
+Dissonant Whispers,1,Enchantment,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Divine Favor,1,Transmutation,Bonus Action,Self,1,1,0,0,1 minute,0,0,0,PHB
+Divine Smite,1,Evocation,Bonus Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+Ensnaring Strike,1,Conjuration,Bonus Action,Self,1,0,0,1,1 minute,0,0,0,PHB
+Entangle,1,Conjuration,Action,90 feet,1,1,0,1,1 minute,0,0,0,PHB
+Expeditious Retreat,1,Transmutation,Bonus Action,Self,1,1,0,1,10 minutes,0,0,0,PHB
+Faerie Fire,1,Evocation,Action,60 feet,1,0,0,1,1 minute,0,0,0,PHB
+0 Life,1,Necromancy,Action,Self,1,1,1,0,Instantaneous,0,0,0,PHB
+Feather Fall,1,Transmutation,Reaction,60 feet,1,0,1,0,1 minute,0,0,0,PHB
+Find Familiar,1,Conjuration,1 hour ,10 feet,1,1,1,0,Instantaneous,0,1,1,PHB
+Fog Cloud,1,Conjuration,Action,120 feet,1,1,0,1,1 hour,0,0,0,PHB
+Goodberry,1,Conjuration,Action,Self,1,1,1,0,24 hours,0,0,0,PHB
+Grease,1,Conjuration,Action,60 feet,1,1,1,0,1 minute,0,0,0,PHB
+Guiding Bolt,1,Evocation,Action,120 feet,1,1,0,0,1 round,0,0,0,PHB
+Hail of Thorns,1,Conjuration,Bonus Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+Healing Word,1,Abjuration,Bonus Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Hellish Rebuke,1,Evocation,Reaction,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Heroism,1,Enchantment,Action,Touch,1,1,0,1,1 minute,0,0,0,PHB
+Hex,1,Enchantment,Bonus Action,90 feet,1,1,1,1,1 hour,0,0,0,PHB
+Hunter's Mark,1,Divination,Bonus Action,90 feet,1,0,0,1,1 hour,0,0,0,PHB
+Ice Knife,1,Conjuration,Action,60 feet,0,1,1,0,Instantaneous,0,0,0,PHB
+Identify,1,Divination,1 minute ,Touch,1,1,1,0,Instantaneous,1,0,1,PHB
+Illusory Script,1,Illusion,1 minute ,Touch,0,1,1,0,10 days,0,1,1,PHB
+Inflict Wounds,1,Necromancy,Action,Touch,1,1,0,0,Instantaneous,0,0,0,PHB
+Jump,1,Transmutation,Bonus Action,Touch,1,1,1,0,1 minute,0,0,0,PHB
+Longstrider,1,Transmutation,Action,Touch,1,1,1,0,1 hour,0,0,0,PHB
+Mage Armor,1,Abjuration,Action,Touch,1,1,1,0,8 hours,0,0,0,PHB
+Magic Missile,1,Evocation,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Protection from Evil and Good,1,Abjuration,Action,Touch,1,1,1,1,10 minutes,0,1,0,PHB
+Purify Food and Drink,1,Transmutation,Action ,10 feet,1,1,0,0,Instantaneous,0,0,1,PHB
+Ray of Sickness,1,Necromancy,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Sanctuary,1,Abjuration,Bonus Action,30 feet,1,1,1,0,1 minute,0,0,0,PHB
+Searing Smite,1,Evocation,Bonus Action,Self,1,0,0,0,1 minute,0,0,0,PHB
+Shield,1,Abjuration,Reaction,Self,1,1,0,0,1 round,0,0,0,PHB
+Shield of Faith,1,Abjuration,Bonus Action,60 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Silent Image,1,Illusion,Action,60 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Sleep,1,Enchantment,Action,60 feet,1,1,1,1,1 minute,0,0,0,PHB
+Speak with Animals,1,Divination,Action ,Self,1,1,0,0,10 minutes,0,0,1,PHB
+Tasha's Hideous Laughter,1,Enchantment,Action,30 feet,1,1,1,1,1 minute,0,0,0,PHB
+Tenser's Floating Disk,1,Conjuration,Action ,30 feet,1,1,1,0,1 hour,0,0,1,PHB
+Thunderous Smite,1,Evocation,Bonus Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+Thunderwave,1,Evocation,Action,Self,1,1,0,0,Instantaneous,0,0,0,PHB
+Unseen Servant,1,Conjuration,Action ,60 feet,1,1,1,0,1 hour,0,0,1,PHB
+Witch Bolt,1,Evocation,Action,60 feet,1,1,1,1,1 minute,0,0,0,PHB
+Wrathful Smite,1,Necromancy,Bonus Action,Self,1,0,0,0,1 minute,0,0,0,PHB
+Aid,2,Abjuration,Action,30 feet,1,1,1,0,8 hours,0,0,0,PHB
+Alter Self,2,Transmutation,Action,Self,1,1,0,1,1 hour,0,0,0,PHB
+Animal Messenger,2,Enchantment,Action ,30 feet,1,1,1,0,24 Hours,0,0,1,PHB
+Arcane Lock,2,Abjuration,Action,Touch,1,1,1,0,Until dispelled,0,1,0,PHB
+Arcane Vigor,2,Abjuration,Bonus Action,Self,1,1,0,0,Instantaneous,0,0,0,PHB
+Augury,2,Divination,1 minute ,Self,1,1,1,0,Instantaneous,0,1,1,PHB
+Barkskin,2,Transmutation,Bonus Action,Touch,1,1,1,0,1 hour,0,0,0,PHB
+Beast Sense,2,Divination,Action ,Touch,0,1,0,1,1 hour,0,0,1,PHB
+Blindness/Deafness,2,Transmutation,Action,120 feet,1,0,0,0,1 minute,0,0,0,PHB
+Blur,2,Illusion,Action,Self,1,0,0,1,1 minute,0,0,0,PHB
+Calm Emotions,2,Enchantment,Action,60 feet,1,1,0,1,1 minute,0,0,0,PHB
+Cloud Of Daggers,2,Conjuration,Action,60 feet,1,1,1,1,1 minute,1,0,0,PHB
+Continual Flame,2,Evocation,Action,Touch,1,1,1,0,Until dispelled,0,1,0,PHB
+Cordon Of Arrows,2,Transmutation,Action,Touch,1,1,1,0,8 hours,0,0,0,PHB
+Crown Of Madness,2,Enchantment,Action,120 feet,1,1,0,1,1 minute,0,0,0,PHB
+Darkness,2,Evocation,Action,60 feet,1,0,1,1,10 minutes,0,0,0,PHB
+Darkvision,2,Transmutation,Action,Touch,1,1,1,0,8 hours,0,0,0,PHB
+Detect Thoughts,2,Divination,Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Dragon's Breath,2,Transmutation,Bonus Action,Touch,1,1,1,1,1 minute,0,0,0,PHB
+Enhance Ability,2,Transmutation,Action,Touch,1,1,1,1,1 hour,0,0,0,PHB
+Enlarge/Reduce,2,Transmutation,Action,30 feet,1,1,1,1,1 minute,0,0,0,PHB
+Enthrall,2,Enchantment,Action,60 feet,1,1,0,1,1 minute,0,0,0,PHB
+Find Steed,2,Conjuration,Action,30 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Find Traps,2,Divination,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Flame Blade,2,Evocation,Bonus Action,Self,1,1,1,1,10 minutes,0,0,0,PHB
+Flaming Sphere,2,Conjuration,Action,60 feet,1,1,1,1,1 minute,0,0,0,PHB
+Gentle Repose,2,Necromancy,Action ,Touch,1,1,1,0,10 days,1,0,1,PHB
+Gust of Wind,2,Evocation,Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Heat Metal,2,Transmutation,Action,60 feet,1,1,1,1,1 minute,0,0,0,PHB
+Hold Person,2,Enchantment,Action,60 feet,1,1,1,1,1 minute,0,0,0,PHB
+Invisibility,2,Illusion,Action,Touch,1,1,1,1,1 hour,0,0,0,PHB
+Knock,2,Transmutation,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Lesser Restoration,2,Abjuration,Bonus Action,Touch,1,1,0,0,Instantaneous,0,0,0,PHB
+Levitate,2,Transmutation,Action,60 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Locate Animals or Plants,2,Divination,Action ,Self,1,1,1,0,Instantaneous,0,0,1,PHB
+Locate Object,2,Divination,Action,Self,1,1,1,1,10 minutes,0,0,0,PHB
+Magic Mouth,2,Illusion,1 minute ,30 feet,1,1,1,0,Until dispelled,0,1,1,PHB
+Magic Weapon,2,Transmutation,Bonus Action,Touch,1,1,0,0,1 hour,0,0,0,PHB
+Melf's Acid Arrow,2,Evocation,Action,90 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Mind Spike,2,Divination,Action,120 feet,0,1,0,1,1 hour,0,0,0,PHB
+Mirror Image,2,Illusion,Action,Self,1,1,0,0,1 minute,0,0,0,PHB
+Misty Step,2,Conjuration,Bonus Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+Moonbeam,2,Evocation,Action,120 feet,1,1,1,1,1 minute,0,0,0,PHB
+Nystul's Magic Aura,2,Illusion,Action,Touch,1,1,1,0,24 hours,0,0,0,PHB
+Pass without Trace,2,Abjuration,Action,Self,1,1,1,1,1 hour,0,0,0,PHB
+Phantasmal Force,2,Illusion,Action,60 feet,1,1,1,1,1 minute,0,0,0,PHB
+Prayer of Healing,2,Abjuration,10 minutes,30 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Protection from Poison,2,Abjuration,Action,Touch,1,1,0,0,1 hour,0,0,0,PHB
+Ray of Enfeeblement,2,Necromancy,Action,60 feet,1,1,0,1,1 minute,0,0,0,PHB
+Rope Trick,2,Transmutation,Action,Touch,1,1,1,0,1 hour,0,0,0,PHB
+Scorching Ray,2,Evocation,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+See Invisibility,2,Divination,Action,Self,1,1,1,0,1 hour,0,0,0,PHB
+Shatter,2,Evocation,Action,60 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Shining Smite,2,Transmutation,Bonus Action,Self,1,0,0,1,",1 minute",0,0,0,PHB
+Silence,2,Illusion,Action ,120 feet,1,1,0,1,10 minutes,0,0,1,PHB
+Spider Climb,2,Transmutation,Action,Touch,1,1,1,1,1 hour,0,0,0,PHB
+Spike Growth,2,Transmutation,Action,150 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Spiritual Weapon,2,Evocation,Bonus Action,60 feet,1,1,0,1,1 minute,0,0,0,PHB
+Suggestion,2,Enchantment,Action,30 feet,1,0,1,1,8 hours,0,0,0,PHB
+Summon Beast,2,Conjuration,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Warding Bond,2,Abjuration,Action,Touch,1,1,1,0,1 hour,0,0,0,PHB
+Web,2,Conjuration,Action,60 feet,1,1,1,1,1 hour,0,0,0,PHB
+Zone of Truth,2,Enchantment,Action,60 feet,1,1,0,0,10 minutes,0,0,0,PHB
+Animate Dead,3,Necromancy,1 minute,10 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Aura of Vitality,3,Abjuration,Action,Self,1,0,0,1,1 minute,0,0,0,PHB
+Beacon Of Hope,3,Abjuration,Action,30 feet,1,1,0,1,1 minute,0,0,0,PHB
+Bestow Curse,3,Necromancy,Action,Touch,1,1,0,1,1 minute,0,0,0,PHB
+Blinding Smite,3,Evocation,Bonus Action,Self,1,0,0,0,1 minute,0,0,0,PHB
+Blink,3,Transmutation,Action,Self,1,1,0,0,1 minute,0,0,0,PHB
+Call Lightning,3,Conjuration,Action,120 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Clairvoyance,3,Divination,10 minutes,1 mile,1,1,1,1,10 minutes,1,0,0,PHB
+Conjure Animals,3,Conjuration,Action,60 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Conjure Barrage,3,Conjuration,Action,Self,1,1,1,0,Instantaneous,1,0,0,PHB
+Counterspell,3,Abjuration,Reaction,60 feet,0,1,0,0,Instantaneous,0,0,0,PHB
+Create Food And Water,3,Conjuration,Action,30 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Crusader's Mantle,3,Evocation,Action,Self,1,0,0,1,1 minute,0,0,0,PHB
+Daylight,3,Evocation,Action,60 feet,1,1,0,0,1 hour,0,0,0,PHB
+Dispel Magic,3,Abjuration,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Elemental Weapon,3,Transmutation,Action,Touch,1,1,0,1,1 hour,0,0,0,PHB
+Fear,3,Illusion,Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Feign Death,3,Necromancy,Action ,Touch,1,1,1,0,1 hour,0,0,1,PHB
+Fireball,3,Evocation,Action,150 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Fly,3,Transmutation,Action,Touch,1,1,1,1,10 minutes,0,0,0,PHB
+Gaseous Form,3,Transmutation,Action,Touch,1,1,1,1,1 hour,0,0,0,PHB
+Glyph of Warding,3,Abjuration,1 hour,Touch,1,1,1,0,Until dispelled or triggered,0,1,0,PHB
+Haste,3,Transmutation,Action,30 feet,1,1,1,1,1 minute,0,0,0,PHB
+Hunger of Hadar,3,Conjuration,Action,150 feet,1,1,1,1,1 minute,0,0,0,PHB
+Hypnotic Pattern,3,Illusion,Action,120 feet,0,1,1,1,1 minute,0,0,0,PHB
+Leomund's Tiny Hut,3,Evocation,1 minute ,Self,1,1,1,0,8 hours,0,0,1,PHB
+Lightning Arrow,3,Transmutation,Bonus Action,Self,1,1,0,0,Instantaneous,0,0,0,PHB
+Lightning Bolt,3,Evocation,Action,Self,1,1,1,0,Instantaneous,0,0,0,PHB
+Magic Circle,3,Abjuration,1 minute,10 feet,1,1,1,0,1 hour,0,1,0,PHB
+Major Image,3,Illusion,Action,120 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Mass Healing Word,3,Abjuration,Bonus Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Meld into Stone,3,Transmutation,Action ,Touch,1,1,0,0,8 hours,0,0,1,PHB
+Nondetection,3,Abjuration,Action,Touch,1,1,1,0,8 hours,0,1,0,PHB
+Phantom Steed,3,Illusion,1 minute ,30 feet,1,1,0,0,1 hour,0,0,1,PHB
+Plant Growth,3,Transmutation,Action  or 8 hours ,150 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Protection from Energy,3,Abjuration,Action,Touch,1,1,0,1,1 hour,0,0,0,PHB
+Remove Curse,3,Abjuration,Action,Touch,1,1,0,0,Instantaneous,0,0,0,PHB
+Revivify,3,Necromancy,Action,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Sending,3,Divination,Action,Unlimited,1,1,1,0,Instantaneous,0,0,0,PHB
+Sleet Storm,3,Conjuration,Action,150 feet,1,1,1,1,1 minute,0,0,0,PHB
+Slow,3,Transmutation,Action,120 feet,1,1,1,1,1 minute,0,0,0,PHB
+Speak with Dead,3,Necromancy,Action,10 feet,1,1,1,0,10 minutes,0,0,0,PHB
+Speak with Plants,3,Transmutation,Action,Self,1,1,0,0,10 minutes,0,0,0,PHB
+Spirit Guardians,3,Conjuration,Action,Self,1,1,1,1,10 minutes,0,0,0,PHB
+Stinking Cloud,3,Conjuration,Action,90 feet,1,1,1,1,1 minute,0,0,0,PHB
+Summon Fey,3,Conjuration,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Summon Undead,3,Necromancy,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Tongues,3,Divination,Action,Touch,1,0,1,0,1 hour,0,0,0,PHB
+Vampiric Touch,3,Necromancy,Action,Self,1,1,0,1,1 minute,0,0,0,PHB
+Water Breathing,3,Transmutation,Action ,30 feet,1,1,1,0,24 hours,0,0,1,PHB
+Water Walk,3,Transmutation,Action ,30 feet,1,1,1,0,1 hour,0,0,1,PHB
+Wind Wall,3,Evocation,Action,120 feet,1,1,1,1,1 minute,0,0,0,PHB
+Arcane Eye,4,Divination,Action,30 feet,1,1,1,1,1 hour,0,0,0,PHB
+Aura of Life,4,Abjuration,Action,Self,1,0,0,1,10 minutes,0,0,0,PHB
+Aura of Purity,4,Abjuration,Action,Self,1,0,0,1,10 minutes,0,0,0,PHB
+Banishment,4,Abjuration,Action,30 feet,1,1,1,1,1 minute,0,0,0,PHB
+Blight,4,Necromancy,Action,30 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Charm Monster,4,Enchantment,Action,30 feet,1,1,0,0,1 hour,0,0,0,PHB
+Compulsion,4,Enchantment,Action,30 feet,1,1,0,1,1 minute,0,0,0,PHB
+Confusion,4,Enchantment,Action,90 feet,1,1,1,1,1 minute,0,0,0,PHB
+Conjure Minor Elementals,4,Conjuration,Action,Self,1,1,0,1,10 minutes,0,0,0,PHB
+Conjure Woodland Beings,4,Conjuration,Action,Self,1,1,0,1,10 minutes,0,0,0,PHB
+Control Water,4,Transmutation,Action,300 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Death Ward,4,Abjuration,Action,Touch,1,1,0,0,8 hours,0,0,0,PHB
+Dimension Door,4,Conjuration,Action,500 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Divination,4,Divination,Action ,Self,1,1,1,0,Instantaneous,0,1,1,PHB
+Dominate Beast,4,Enchantment,Action,60 feet,1,1,0,1,1 minute,0,0,0,PHB
+Evard's Black Tentacles,4,Conjuration,Action,90 feet,1,1,1,1,1 minute,0,0,0,PHB
+Fabricate,4,Transmutation,10 minutes,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Fire Shield,4,Evocation,Action,Self,1,1,1,0,10 minutes,0,0,0,PHB
+Fount of Moonlight,4,Evocation,Action,Self,1,1,0,1,10 minutes,0,0,0,PHB
+Freedom of Movement,4,Abjuration,Action,Touch,1,1,1,0,1 hour,0,0,0,PHB
+Giant Insect,4,Conjuration,Action,60 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Grasping Vine,4,Conjuration,Bonus Action,60 feet,1,1,0,1,1 minute,0,0,0,PHB
+Greater Invisibility,4,Illusion,Action,Touch,1,1,0,1,1 minute,0,0,0,PHB
+Guardian of Faith,4,Conjuration,Action,30 feet,1,0,0,0,8 hours,0,0,0,PHB
+Hallucinatory Terrain,4,Illusion,10 minutes,300 feet,1,1,1,0,24 hours,0,0,0,PHB
+Ice Storm,4,Evocation,Action,300 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Leomund's Secret Chest,4,Conjuration,Action,Touch,1,1,1,0,Until dispelled,1,0,0,PHB
+Locate Creature,4,Divination,Action,Self,1,1,1,1,1 hour,0,0,0,PHB
+Mordenkainen's Faithful Hound,4,Conjuration,Action,30 feet,1,1,1,0,8 hours,0,0,0,PHB
+Mordenkainen's Private Sanctum,4,Abjuration,10 minutes,120 feet,1,1,1,0,24 hours,0,0,0,PHB
+Otiluke's Resilient Sphere,4,Abjuration,Action,30 feet,1,1,1,1,1 minute,0,0,0,PHB
+Phantasmal Killer,4,Illusion,Action,120 feet,1,1,0,1,1 minute,0,0,0,PHB
+Polymorph,4,Transmutation,Action,60 feet,1,1,1,1,1 hour,0,0,0,PHB
+Staggering Smite,4,Enchantment,Bonus Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+Stone Shape,4,Transmutation,Action,Touch,1,1,1,0,Instantaneous,0,0,0,PHB
+Stoneskin,4,Transmutation,Action,Touch,1,1,1,1,1 hour,0,1,0,PHB
+Summon Aberration,4,Conjuration,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Summon Construct,4,Conjuration,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Summon Elemental,4,Conjuration,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Vitriolic Sphere,4,Evocation,Action,150 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Wall of Fire,4,Evocation,Action,120 feet,1,1,1,1,1 minute,0,0,0,PHB
+Animate Objects,5,Transmutation,Action,120 feet,1,1,0,1,1 minute,0,0,0,PHB
+Antilife Shell,5,Abjuration,Action,Self,1,1,0,1,1 hour,0,0,0,PHB
+Awaken,5,Transmutation,8 Hours,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Banishing Smite,5,Conjuration,Bonus Action,Self,1,0,0,1,1 minute,0,0,0,PHB
+Bigby's Hand,5,Evocation,Action,120 feet,1,1,1,1,1 minute,0,0,0,PHB
+Circle Of Power,5,Abjuration,Action,Self,1,0,0,1,10 minutes,0,0,0,PHB
+Cloudkill,5,Conjuration,Action,120 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Commune,5,Divination,1 minute ,Self,1,1,1,0,1 minute,0,0,1,PHB
+Commune With Nature,5,Divination,1 minute ,Self,1,1,0,0,Instantaneous,0,0,1,PHB
+Cone Of Cold,5,Evocation,Action,Self,1,1,1,0,Instantaneous,0,0,0,PHB
+Conjure Elemental,5,Conjuration,Action,60 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Conjure Volley,5,Conjuration,Action,150 feet,1,1,1,0,Instantaneous,1,0,0,PHB
+Contact Other Plane,5,Divination,1 minute ,Self,1,0,0,0,1 minute,0,0,1,PHB
+Contagion,5,Necromancy,Action,Touch,1,1,0,0,7 days,0,0,0,PHB
+Creation,5,Illusion,1 minute,30 feet,1,1,1,0,Speial,0,0,0,PHB
+Destructive Wave,5,Evocation,Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+Dispel Evil and Good,5,Abjuration,Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Dominate Person,5,Enchantment,Action,60 feet,1,1,0,1,1 minute,0,0,0,PHB
+Dream,5,Illusion,1 minute,Special,1,1,1,0,8 hours,0,0,0,PHB
+Flame Strike,5,Evocation,Action,60 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Geas,5,Enchantment,1 minute,60 feet,1,0,0,0,30 days,0,0,0,PHB
+Greater Restoration,5,Abjuration,Action,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Hallow,5,Abjuration,24 hours,Touch,1,1,1,0,Until dispelled,0,1,0,PHB
+Hold Monster,5,Enchantment,Action,90 feet,1,1,1,1,1 minute,0,0,0,PHB
+Insect Plague,5,Conjuration,Action,300 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Jallarzi's Storm of Radiance,5,Evocation,Action,120 feet,1,1,1,1,1 minute,0,0,0,PHB
+Legend Lore,5,Divination,10 minutes,Self,1,1,1,0,Instantaneous,0,1,0,PHB
+Mass Cure Wounds,5,Abjuration,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Mislead,5,Illusion,Action,Self,0,1,0,1,1 hour,0,0,0,PHB
+Modify Memory,5,Enchantment,Action,30 feet,1,1,0,1,1 minute,0,0,0,PHB
+Passwall,5,Transmutation,Action,30 feet,1,1,1,0,1 hour,0,0,0,PHB
+Planar Binding,5,Abjuration,1 hour,60 feet,1,1,1,0,24 hours,0,1,0,PHB
+Raise Dead,5,Necromancy,1 hour,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Rary's Telepathic Bond,5,Divination,Action ,30 feet,1,1,1,0,1 hour,0,0,1,PHB
+Reincarnate,5,Necromancy,1 hour,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Scrying,5,Divination,10 minutes,Self,1,1,1,1,10 minutes,0,0,0,PHB
+Seeming,5,Illusion,Action,30 feet,1,1,0,0,8 hours,0,0,0,PHB
+Steel Wind Strike,5,Conjuration,Action,30 feet,0,1,1,0,Instantaneous,0,0,0,PHB
+Summon Celestial,5,Conjuration,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Summon Dragon,5,Conjuration,Action,60 feet,1,1,1,1,1 hour,1,0,0,PHB
+Swift Quiver,5,Transmutation,Bonus Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Synaptic Static,5,Enchantment,Action,120 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Telekinesis,5,Transmutation,Action,60 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Teleportation Circle,5,Conjuration,1 minute,10 feet,1,0,1,0,1 round,0,1,0,PHB
+Tree Stride,5,Conjuration,Action,Self,1,1,0,1,1 minute,0,0,0,PHB
+Wall of Force,5,Evocation,Action,120 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Wall of Stone,5,Evocation,Action,120 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Yolande's Regal Presence,5,Enchantment,Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Arcane Gate,6,Conjuration,Action,500 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Blade Barrier,6,Evocation,Action,90 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Chain Lightning,6,Evocation,Action,150 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Circle Of Death,6,Necromancy,Action,150 feet,1,1,1,0,Instantaneous,1,0,0,PHB
+Conjure Fey,6,Conjuration,Action,60 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Contingency,6,Abjuration,10 minutes,Self,1,1,1,0,10 days,1,0,0,PHB
+Create Undead,6,Necromancy,1 minute,10 feet,1,1,1,0,Instantaneous,1,0,0,PHB
+Disintegrate,6,Transmutation,Action,60 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Drawmij's Instant Summons,6,Conjuration,1 minute ,Touch,1,1,1,0,Until dispelled,1,0,1,PHB
+Eyebite,6,Necromancy,Action,Self,1,1,0,1,1 minute,0,0,0,PHB
+Find the Path,6,Divination,1 minute,Self,1,1,1,1,1 day,0,1,0,PHB
+Flesh to Stone,6,Transmutation,Action,60 feet,1,1,1,1,1 minute,0,0,0,PHB
+Forbiddance,6,Abjuration,10 minutes ,Touch,1,1,1,0,1 day,1,0,1,PHB
+Globe of Invulnerability,6,Abjuration,Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Guards and Wards,6,Abjuration,1 hour,Touch,1,1,1,0,24 hours,0,0,0,PHB
+Harm,6,Necromancy,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Heal,6,Abjuration,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Heroes' Feast,6,Conjuration,10 minutes,Self,1,1,1,0,Instantaneous,0,1,0,PHB
+Magic Jar,6,Necromancy,1 minute,Self,1,1,1,0,Until dispelled,1,0,0,PHB
+Mass Suggestion,6,Enchantment,Action,60 feet,1,0,1,0,24 hours,0,0,0,PHB
+Move Earth,6,Transmutation,Action,120 feet,1,1,1,1,2 hours,0,0,0,PHB
+Otiluke's Freezing Sphere,6,Evocation,Action,300 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Otto's Irresistible Dance,6,Enchantment,Action,30 feet,1,0,0,1,1 minute,0,0,0,PHB
+Planar Ally,6,Conjuration,10 minutes,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Programmed Illusion,6,Illusion,Action,120 feet,1,1,1,0,Until dispelled,0,0,0,PHB
+Summon Fiend,6,Conjuration,Action,90 feet,1,1,1,1,1 hour,1,0,0,PHB
+Sunbeam,6,Evocation,Action,Self,1,1,1,1,1 minute,0,0,0,PHB
+Tasha's Bubbling Cauldron,6,Conjuration,Action,5 feet,1,1,1,0,10 minutes,0,0,0,PHB
+Transport via Plants,6,Conjuration,Action,10 feet,1,1,0,0,1 minute,0,0,0,PHB
+1 Seeing,6,Divination,Action,Touch,1,1,1,0,1 hour,0,1,0,PHB
+Wall of Ice,6,Evocation,Action,120 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Wall of Thorns,6,Conjuration,Action,120 feet,1,1,1,1,10 minutes,0,0,0,PHB
+Wind Walk,6,Transmutation,1 minute,30 feet,1,1,1,0,8 hours,0,0,0,PHB
+Word of Recall,6,Conjuration,Action,5 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Conjure Celestial,7,Conjuration,Action,90 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Delayed Blast Fireball,7,Evocation,Action,150 feet,1,1,1,1,1 minute,0,0,0,PHB
+Divine Word,7,Evocation,Bonus Action,30 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Etherealness,7,Conjuration,Action,Self,1,1,0,0,8 hours,0,0,0,PHB
+Finger of Death,7,Necromancy,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Fire Storm,7,Evocation,Action,150 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Forcecage,7,Evocation,Action,100 feet,1,1,1,1,1 hour,0,1,0,PHB
+Mirage Arcane,7,Illusion,10 minutes,Sight,1,1,0,0,10 days,0,0,0,PHB
+Mordenkainen's Magnificent Mansion,7,Conjuration,1 minute,300 feet,1,1,1,0,24 hours,0,0,0,PHB
+Mordenkainen's Sword,7,Evocation,Action,90 feet,1,1,1,1,1 minute,1,0,0,PHB
+Plane Shift,7,Conjuration,Action,Touch,1,1,1,0,Instantaneous,1,0,0,PHB
+Power Word Fortify,7,Enchantment,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Prismatic Spray,7,Evocation,Action,Self,1,1,0,0,Instantaneous,0,0,0,PHB
+Project Image,7,Illusion,Action,500 miles,1,1,1,1,1 day,0,0,0,PHB
+Regenerate,7,Transmutation,1 minute,Touch,1,1,1,0,1 hour,0,0,0,PHB
+Resurrection,7,Necromancy,1 hour,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Reverse Gravity,7,Transmutation,Action,100 feet,1,1,1,1,1 minute,0,0,0,PHB
+Sequester,7,Transmutation,Action,Touch,1,1,1,0,Until dispelled,0,1,0,PHB
+Simulacrum,7,Illusion,12 hours,Touch,1,1,1,0,Until dispelled,0,1,0,PHB
+Symbol,7,Abjuration,1 minute,Touch,1,1,1,0,Until dispelled or triggered,0,1,0,PHB
+Teleport,7,Conjuration,Action,10 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Animal Shapes,8,Transmutation,Action,30 Feet,1,1,0,0,24 Hours,0,0,0,PHB
+Antimagic Field,8,Abjuration,Action,Self,1,1,1,1,1 hour,0,0,0,PHB
+Antipathy/Sympathy,8,Enchantment,1 hour,60 feet,1,1,1,0,10 days,0,0,0,PHB
+Befuddlement,8,Enchantment,Action,150 feet,1,1,1,0,Instantanous,0,0,0,PHB
+Clone,8,Necromancy,1 hour,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Control Weather,8,Transmutation,10 minutes,Self,1,1,1,1,8 hours,0,0,0,PHB
+Demiplane,8,Conjuration,Action,60 feet,0,1,0,0,1 hour,0,0,0,PHB
+Dominate Monster,8,Enchantment,Action,60 feet,1,1,0,1,1 hour,0,0,0,PHB
+Earthquake,8,Transmutation,Action,500 feet,1,1,1,1,1 minute,0,0,0,PHB
+Glibness,8,Enchantment,Action,Self,1,0,0,0,1 hour,0,0,0,PHB
+Holy Aura,8,Abjuration,Action,Self,1,1,1,1,1 minute,1,0,0,PHB
+Incendiary Cloud,8,Conjuration,Action,150 feet,1,1,0,1,1 minute,0,0,0,PHB
+Maze,8,Conjuration,Action,60 feet,1,1,0,1,10 minutes,0,0,0,PHB
+Mind Blank,8,Abjuration,Action,Touch,1,1,0,0,24 hours,0,0,0,PHB
+Power Word Stun,8,Enchantment,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Sunburst,8,Evocation,Action,150 feet,1,1,1,0,Instantaneous,0,0,0,PHB
+Telepathy,8,Divination,Action,Unlimited,1,1,1,0,24 hours,0,0,0,PHB
+Tsunami,8,Conjuration,1 minute,1 mile,1,1,0,1,6 rounds,0,0,0,PHB
+Astral Projection,9,Necromancy,1 hour,10 feet,1,1,1,0,Until dispelled,0,1,0,PHB
+Foresight,9,Divination,1 minute,Touch,1,1,1,0,8 hours,0,0,0,PHB
+Gate,9,Conjuration,Action,60 feet,1,1,1,1,1 minute,1,0,0,PHB
+Imprisonment,9,Abjuration,1 minute,30 feet,1,1,1,0,Until dispelled,1,0,0,PHB
+Mass Heal,9,Abjuration,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,PHB
+Meteor Swarm,9,Evocation,Action,1 mile,1,1,0,0,Instantaneous,0,0,0,PHB
+Power Word Heal,9,Enchantment,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Power Word Kill,9,Enchantment,Action,60 feet,1,0,0,0,Instantaneous,0,0,0,PHB
+Prismatic Wall,9,Abjuration,Action,60 feet,1,1,0,0,10 minutes,0,0,0,PHB
+Shapechange,9,Transmutation,Action,Self,1,1,1,1,1 hour,1,0,0,PHB
+Storm of Vengeance,9,Conjuration,Action,1 mile,1,1,0,1,1 minute,0,0,0,PHB
+Time Stop,9,Transmutation,Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+1 Polymorph,9,Transmutation,Action,30 feet,1,1,1,1,1 hour,0,0,0,PHB
+1 Resurrection,9,Necromancy,1 hour,Touch,1,1,1,0,Instantaneous,0,1,0,PHB
+Weird,9,Illusion,Action,120 feet,1,1,0,1,1 minute,0,0,0,PHB
+Wish,9,Conjuration,Action,Self,1,0,0,0,Instantaneous,0,0,0,PHB
+Alustriel’s Mooncloak,5,Abjuration ,Action,Self,1,1,1,1,1 minute,1,0,0,HoF
+Backlash,4,Abjuration ,Reaction,60 feet,1,0,0,0,Instantaneous,0,0,0,HoF
+Blade of Disaster,9,Conjuration ,Bonus Action,60 feet,1,1,0,1,1 minute,0,0,0,HoF
+Cacophonic Shield,3,Evocation ,Action,Self,1,1,0,1,10 minutes,0,0,0,HoF
+Conjure Constructs,3,Conjuration ,Action,60 feet,1,1,1,1,10 minutes,0,0,0,HoF
+Death Shield,2,Necromancy ,Action,Touch,1,1,1,0,1 hour,1,1,0,HoF
+Deryan’s Helpful Homunculi,2,Conjuration ,Action,Self,1,1,1,0,8 hours,1,1,0,HoF
+Dirge,6,Enchantment ,Action,Self,1,0,0,1,1 minute,0,0,0,HoF
+Doomtide,4,Conjuration ,Action,120 feet,1,1,1,1,1 minute,0,0,0,HoF
+Elminster’s Effulgent Spheres,6,Evocation ,Action,Self,1,1,1,0,1 hour,1,0,0,HoF
+Elminster’s Elusion,2,Abjuration ,Bonus Action,Self,1,1,0,1,10 minutes,0,0,0,HoF
+Holy Star of Mystra,8,Evocation ,Bonus Action,Self,1,1,0,1,1 minute,0,0,0,HoF
+Laeral’s Silver Lance,3,Evocation ,Action,Self,1,1,1,0,Instantaneous,1,0,0,HoF
+Simbul’s Synostodweomer,7,Transmutation ,Action,Touch,1,1,0,0,1 hour,0,0,0,HoF
+Songal’s Elemental Suffusion,5,Transmutation ,Action,Self,1,1,1,1,1 minute,1,0,0,HoF
+Spellfire Flare,1,Evocation ,Action,60 feet,1,1,0,0,Instantaneous,0,0,0,HoF
+Spellfire Storm,4,Evocation ,Action,60 feet,1,1,0,1,1 minute,0,0,0,HoF
+Syluné’s Viper,3,Conjuration ,Bonus Action,Self,1,1,1,0,1 hour,0,0,0,HoF
+Wardaway,1,Abjuration ,Action,60 feet,1,1,1,0,Instantaneous,0,0,0,HoF
